@@ -5,7 +5,7 @@ public class Add {
 		int a=10,b=20;
 		int c=a+b;
 		System.out.println("Addition: "+c);
-
+		System.out.println("Newly added statement!!");
 	}
 
 }
